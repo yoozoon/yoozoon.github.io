@@ -1,17 +1,17 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kirmse;Jan;;;
-FN:Jan Kirmse
+N:TestName;Jan;;;
+FN:Jan Testname
 ORG:
-ADR;TYPE=WORK:Schenefelder Landstraße 108A
-22589 Hamburg
+ADR;TYPE=WORK:Strasse 100
+1234 Stadt
 Germany
 TITLE:
-TEL;TYPE=CELL:004917622600287
+TEL;TYPE=CELL:+49(0)133456789
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:j.kirmse@gmx.de
+EMAIL;TYPE=WORK:test@gmx.de
 URL;TYPE=Digital Business Card:
 URL:
 
